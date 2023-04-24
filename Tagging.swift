@@ -20,7 +20,7 @@ enum CommonDataKey: String {
 struct Tagging {
   func trackLoginView() {
     let data = [
-      CommonDataKey.pageName.rawValue: "Loginn Page",
+      CommonDataKey.pageName.rawValue: "Login Page",
       CommonDataKey.pageUrl.rawValue: "/home/login",
       CommonDataKey.field1.rawValue: "username",
       CommonDataKey.field2.rawValue: "userpassword",
