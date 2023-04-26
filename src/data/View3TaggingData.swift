@@ -1,3 +1,4 @@
+let view3spec = """
 { 
     "viewEntry": {
         "type": "view",
@@ -38,3 +39,4 @@
         "actionValue": "backtoaccountview"
     }
 }
+"""
