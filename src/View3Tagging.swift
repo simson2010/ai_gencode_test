@@ -24,6 +24,7 @@ struct View3TaggingManager {
     //and call trackView(data:) or trackEvent(data:) in TaggingManager based on "type" key
     //and exclude "type" key
     //method name like "track" + level 1 key in view3spec.json
+        
     func trackViewEntry() {
         let data = [
             View3TaggingKey.type.rawValue: "view",
