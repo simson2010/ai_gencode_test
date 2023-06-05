@@ -1,3 +1,9 @@
+import Foundation
+
+//from below json second level
+// create enum named View4TaggingKey and extend it from String
+
+/*
 { 
     "$schema": "./schema.json",
     "view:acountEntry": {
@@ -45,3 +51,5 @@
     }
 }
 
+
+*/
